@@ -1,0 +1,40 @@
+{
+  "name": "re-store",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/babel__generator": "^7.6.4",
+    "@types/react": "^18.2.17",
+    "@types/react-dom": "^18.2.7",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.3",
+    "redux": "^4.0.1",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@types/babel__core": "^7.20.1",
+    "@types/babel-core": "^6.25.7",
+    "@types/react-redux": "^7.1.25",
+    "@types/react-router-dom": "^5.3.3",
+    "prettier": "^3.0.0"
+  }
+}
